@@ -1,0 +1,60 @@
+_repo: The-Norwegian-Fairy-Book_38070
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hood, George Washington
+    aliases:
+    - Hood, George W.
+    - Hood, G. W.
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '8642'
+    url: http://www.gutenberg.org/2009/agents/8642
+  translator:
+    agent_name: Martens, Frederick Herman
+    aliases:
+    - Martens, Frederick H.
+    - Martens, Frederic
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '6111'
+    url: http://www.gutenberg.org/2009/agents/6111
+    wikipedia: http://en.wikisource.org/wiki/Author:Frederick_Herman_Martens
+covers:
+- cover_type: archival
+  image_path: 38070-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stroebe, Klara
+    alias: Stroebe, Clara
+    birthdate: 1887
+    gutenberg_agent_id: '38694'
+    url: http://www.gutenberg.org/2009/agents/38694
+description: ''
+gutenberg_issued: '2011-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38070'
+  lccn: '22018658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Norway'
+tableOfContents: Per Gynt -- The Isle of Udröst -- The three lemons -- The neighbor
+  underground -- The secret church -- The comrade -- Aspenclog -- The troll wedding
+  -- The hat of the huldres -- The child of Mary -- Storm magic -- The four-shilling
+  piece -- The magic apples -- Self did it -- The master girl -- Anent the giant who
+  did not have his heart about him -- The three princesses in Whiteland -- Trouble
+  and care -- Kari Woodencoat -- Ola Storbaekkjen -- The cat who could eat so much
+  -- East of the sun and west of the moon -- Murmur Goose-Egg -- The troll-wife --
+  The king’s hares -- Helge-Hal in the Blue Hill -- The Lord of the Hill and John
+  Blessom -- The young fellow and the devil -- Farther south than south, and farther
+  north than north, and in the great hill of gold -- Lucky Andrew -- The pastor and
+  the sexton -- The skipper and Sir Urian -- The youth who was to serve three years
+  without pay -- The youth who wanted to win the daughter of the mother in the corner
+  -- The chronicle of the pancake -- Soria-Moria Castle -- The player on the jew’s-harp.
+title: The Norwegian Fairy Book
+url: http://www.gutenberg.org/ebooks/38070
